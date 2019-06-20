@@ -98,12 +98,6 @@ img::-moz-selection {
   padding: 5px;
 }
 
-.img-container .two {
-  float: left;
-  width: 50%;
-  padding: 5px;
-}
-
 .clearfix::after {
   content: "";
   clear: both;
@@ -424,7 +418,7 @@ footer .copyright {
 
 .btn {
   font-size: 14px;
-  font-weight: 800;
+  font-weight: 700;
   padding: 15px 25px;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -433,14 +427,14 @@ footer .copyright {
 }
 
 .btn-primary {
-  background-color: #0085A1;
-  border-color: #0085A1;
+  background-color: #752b2b;
+  border-color: #752b2b;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   color: #fff;
-  background-color: #00657b !important;
-  border-color: #00657b !important;
+  background-color: #e8a9be !important;
+  border-color: #e8a9be !important;
 }
 
 .btn-lg {
