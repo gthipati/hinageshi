@@ -12,7 +12,7 @@ body {
 
 p {
   line-height: 1.5;
-  margin: 30px 0;
+  margin: 15px 0;
 }
 
 p a {
@@ -86,6 +86,22 @@ img::selection {
 img::-moz-selection {
   color: #fff;
   background: transparent;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.img-container {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 #mainNav {
@@ -176,7 +192,7 @@ img::-moz-selection {
 }
 
 header.masthead {
-  margin-bottom: 25px;
+  margin-bottom: 10px;
   background: no-repeat center center;
   background-color: #a4bc9c;
   background-attachment: scroll;
