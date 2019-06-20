@@ -25,23 +25,23 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 800;
+  font-weight: 700;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 a {
-  color: #212529;
+  color: #752b2b;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
 
 a:focus, a:hover {
-  color: #0085A1;
+  color: #e8a9be;
 }
 
 blockquote {
   font-style: italic;
-  color: #868e96;
+  color: #a4bc9c;
 }
 
 .section-heading {
@@ -176,9 +176,9 @@ img::-moz-selection {
 }
 
 header.masthead {
-  margin-bottom: 50px;
+  margin-bottom: 25px;
   background: no-repeat center center;
-  background-color: #868e96;
+  background-color: #a4bc9c;
   background-attachment: scroll;
   position: relative;
   background-size: cover;
@@ -258,7 +258,7 @@ header.masthead .post-heading .meta {
   font-size: 20px;
   font-weight: 300;
   font-style: italic;
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Lato', 'Times New Roman', serif;
 }
 
 header.masthead .post-heading .meta a {
@@ -298,7 +298,7 @@ header.masthead .post-heading .meta a {
   font-size: 18px;
   font-style: italic;
   margin-top: 0;
-  color: #868e96;
+  color: #a4bc9c;
 }
 
 .post-preview > .post-meta > a {
@@ -337,13 +337,13 @@ header.masthead .post-heading .meta a {
   background: none;
   -webkit-box-shadow: none !important;
   box-shadow: none !important;
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Lato', 'Times New Roman', serif;
 }
 
 .floating-label-form-group input::-webkit-input-placeholder,
 .floating-label-form-group textarea::-webkit-input-placeholder {
-  color: #868e96;
-  font-family: 'Lora', 'Times New Roman', serif;
+  color: #a4bc9c;
+  font-family: 'Lato', 'Times New Roman', serif;
 }
 
 .floating-label-form-group label {
