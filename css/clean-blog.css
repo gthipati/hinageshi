@@ -191,6 +191,13 @@ img::-moz-selection {
   }
 }
 
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}
+
 header.masthead {
   margin-bottom: 10px;
   background: no-repeat center center;
