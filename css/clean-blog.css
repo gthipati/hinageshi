@@ -98,6 +98,12 @@ img::-moz-selection {
   padding: 5px;
 }
 
+.img-container .two {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
 .clearfix::after {
   content: "";
   clear: both;
