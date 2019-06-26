@@ -30,7 +30,7 @@ h6 {
 }
 
 a {
-  color: #752b2b;
+  color: #c44848;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
@@ -213,7 +213,7 @@ header.masthead .overlay {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: #752b2b;
+  background-color: #916d6d;
   opacity: 0.5;
 }
 
